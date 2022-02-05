@@ -1,4 +1,8 @@
-### Hi there 👋
+# You've found the GitHub page of one Liam Richardson! Enjoy!
+### Software engineer, soon-to-be-recent-Hack-Reactor-grad, and pun-maker.
+You can reach me at:
+
+[Linkedin](https://www.linkedin.com/in/richardson-liam/) or by email: <liam@richardsonconcepts.com>
 
 <!--
 **CptOblivion/CptOblivion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
