@@ -4,15 +4,15 @@ You can reach me at [Linkedin](https://www.linkedin.com/in/richardson-liam/) or 
 
 ## Applications
 
-[ASCII Well that Ends Well](https://github.com/CptOblivion/ascii-well-that-ends-well)
+[![ASCII Well that Ends Well](./Images/ASCII.png)](https://github.com/CptOblivion/ascii-well-that-ends-well)
 
-[Expresso](https://github.com/Blue-Ocean-Team-Shades/Expresso)
+[![Expresso](./Images/Expresso.png)](https://github.com/Blue-Ocean-Team-Shades/Expresso)
 
-[Quartz Front-End](https://github.com/Team-Quartz/Front-End-Capstone)
+[![Quartz Front End](./Images/Quartz.png)](https://github.com/Team-Quartz/Front-End-Capstone)
 
-[Granite Q&A Back-End](https://github.com/Cheviot-BGE0/questions-and-answers)
+[![Granite Q&A Back End](./Images/Granite.png)](https://github.com/Cheviot-BGE0/questions-and-answers)
 
-[CisCtrl](https://github.com/CptOblivion/Cisco-Codec-Controller)
+[![CisCtrl](./Images/Cisco.png)](https://github.com/CptOblivion/Cisco-Codec-Controller)
 
 ## Game Projects
 [![Aggroculture](./Images/Aggroculture.png)](https://github.com/CptOblivion/Aggroculture)
