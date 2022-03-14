@@ -1,18 +1,22 @@
 # You've found the GitHub page of one Liam Richardson! Enjoy!
-### Software engineer, soon-to-be-recent-Hack-Reactor-grad, and pun-maker.
+### Software engineer, Hack Reactor grad, artist, pun-maker.
 You can reach me at [Linkedin](https://www.linkedin.com/in/richardson-liam/) or by email: <liam@richardsonconcepts.com>
 
-<!--
-**CptOblivion/CptOblivion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Applications
 
-Here are some ideas to get you started:
+[![ASCII Well that Ends Well](./Images/ASCII.png)](https://github.com/CptOblivion/ascii-well-that-ends-well)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Expresso](./Images/Expresso.png)](https://github.com/Blue-Ocean-Team-Shades/Expresso)
+
+[![Quartz Front End](./Images/Quartz.png)](https://github.com/Team-Quartz/Front-End-Capstone)
+
+[![Granite Q&A Back End](./Images/Granite.png)](https://github.com/Cheviot-BGE0/questions-and-answers)
+
+[![CisCtrl](./Images/Cisco.png)](https://github.com/CptOblivion/Cisco-Codec-Controller)
+
+## Game Projects
+[![Aggroculture](./Images/Aggroculture.png)](https://github.com/CptOblivion/Aggroculture)
+[![Pixel Action](./Images/Pixel.png)](https://github.com/CptOblivion/1-bit-action-adventure)
+[![Low-Fi Horror](./Images/Horror.png)](https://github.com/CptOblivion/horror-puzzle-game)
+[![Laboratory Hacker](./Images/Hacker.png)](https://github.com/CptOblivion/vr-hacker-robot)
+[![Space Archeology](./Images/Archeology.png)](https://github.com/CptOblivion/space-derelict-explorer)
